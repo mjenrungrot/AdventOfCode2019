@@ -10,7 +10,7 @@ The motivation for this is to practice using Python and adopt good quality code 
 | 3 | [Solved](3.py) | [Solved](3b.py) |
 | 4 | [Solved](4.py) | [Solved](4b.py) |
 | 5 | [Solved](5.py) | [Solved](5b.py) |
-| 6 |  |  |
+| 6 | [Solved](6.py) | [Solved](6b.py) |
 | 7 |  |  |
 | 8 |  |  |
 | 9 |  |  |
